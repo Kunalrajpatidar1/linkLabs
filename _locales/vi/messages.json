@@ -3,12 +3,12 @@
       "message": "Trình quản lý dấu trang đẹp mắt với tính năng kéo thả, thay thế trang tab mới của bạn."
    },
    "extensionName": {
-      "message": "LumiList - Trình quản lý dấu trang thông minh"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Lưu nhanh trang hiện tại vào LumiList"
+      "message": "Lưu nhanh trang hiện tại vào LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Lưu nhanh vào LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Lưu nhanh vào LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

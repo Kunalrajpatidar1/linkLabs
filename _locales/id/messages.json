@@ -3,12 +3,12 @@
       "message": "Pengelola bookmark yang indah dengan seret dan lepas yang menggantikan halaman tab baru Anda."
    },
    "extensionName": {
-      "message": "LumiList - Pengelola Bookmark Cerdas"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Simpan cepat halaman saat ini ke LumiList"
+      "message": "Simpan cepat halaman saat ini ke LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Simpan Cepat ke LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Simpan Cepat ke LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

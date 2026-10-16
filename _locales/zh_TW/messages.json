@@ -3,12 +3,12 @@
       "message": "一個漂亮的拖放書籤管理器，能取代你的新分頁頁面。"
    },
    "extensionName": {
-      "message": "LumiList - 智慧書籤管理器"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "快速儲存目前頁面到 LumiList"
+      "message": "快速儲存目前頁面到 LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "快速存檔到 LumiList （Ctrl/Cmd+Shift+Y）"
+      "message": "快速存檔到 LinkLabs （Ctrl/Cmd+Shift+Y）"
    }
 }

@@ -1,0 +1,1 @@
+!function(){'use strict';window.LumiListEmailAuth={init(){},open(){},close(){},submit(){},requestCaptcha:()=>Promise.reject(new Error('offline')),assertEmailSendAvailable:()=>Promise.resolve(),request:()=>Promise.reject(new Error('offline')),errorKey:()=>'offline'};window.LumiListAccountPassword={init(){},open(){},close(){},send(){}};}();

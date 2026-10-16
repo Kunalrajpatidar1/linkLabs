@@ -3,12 +3,12 @@
       "message": "مدير إشارات مرجعية جميل يحل محل صفحة التبويب الجديدة الخاصة بك."
    },
    "extensionName": {
-      "message": "LumiList - مدير العلامات المرجعية الذكية"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "حفظ الصفحة الحالية بسرعة إلى LumiList"
+      "message": "حفظ الصفحة الحالية بسرعة إلى LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "حفظ سريع إلى LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "حفظ سريع إلى LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

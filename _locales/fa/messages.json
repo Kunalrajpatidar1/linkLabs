@@ -3,12 +3,12 @@
       "message": "یک مدیر بوکمارک زیبا با کشیدن و رها کردن که جایگزین صفحه تب جدید شما می شود."
    },
    "extensionName": {
-      "message": "LumiList - مدیر بوکمارک هوشمند"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "صفحه فعلی را سریع ذخیره LumiList"
+      "message": "صفحه فعلی را سریع ذخیره LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "ذخیره سریع در LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "ذخیره سریع در LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

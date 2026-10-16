@@ -3,12 +3,12 @@
       "message": "Un gestor de marcadores bonito con arrastrar y soltar que reemplaza la página de nueva pestaña."
    },
    "extensionName": {
-      "message": "LumiList - Administrador de marcadores inteligente"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Guarda rápidamente la página actual en LumiList"
+      "message": "Guarda rápidamente la página actual en LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Guardado rápido en LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Guardado rápido en LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

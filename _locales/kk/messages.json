@@ -3,12 +3,12 @@
       "message": "Жаңа қойынды бетіңізді алмастыратын әдемі, сүйреп апаруға болатын бетбелгі менеджері."
    },
    "extensionName": {
-      "message": "LumiList - Ақылды Бетбелгі Менеджері"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Ағымдағы бетті LumiList жүйесіне жылдам сақтау"
+      "message": "Ағымдағы бетті LinkLabs жүйесіне жылдам сақтау"
    },
    "quickSaveTitle": {
-      "message": "LumiList жүйесіне жылдам сақтау (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs жүйесіне жылдам сақтау (Ctrl/Cmd+Shift+Y)"
    }
 }

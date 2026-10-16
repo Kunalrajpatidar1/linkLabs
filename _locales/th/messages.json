@@ -3,12 +3,12 @@
       "message": "เครื่องมือจัดการบุ๊กมาร์กแบบลากและวางที่สวยงาม ซึ่งมาแทนที่หน้าแท็บใหม่ของคุณ"
    },
    "extensionName": {
-      "message": "LumiList - ผู้จัดการบุ๊กมาร์กอัจฉริยะ"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "บันทึกหน้าปัจจุบันไปยัง LumiList อย่างรวดเร็ว"
+      "message": "บันทึกหน้าปัจจุบันไปยัง LinkLabs อย่างรวดเร็ว"
    },
    "quickSaveTitle": {
-      "message": "บันทึกด่วนไปยัง LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "บันทึกด่วนไปยัง LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

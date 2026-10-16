@@ -3,12 +3,12 @@
       "message": "Yeni sekme sayfanızın yerini alan, sürükle-bırak özellikli şık bir yer işareti yöneticisi."
    },
    "extensionName": {
-      "message": "LumiList - Akıllı Yer İşareti Yöneticisi"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Geçerli sayfayı hızlıca LumiList'e kaydet"
+      "message": "Geçerli sayfayı hızlıca LinkLabs'e kaydet"
    },
    "quickSaveTitle": {
-      "message": "LumiList'e Hızlı Kaydet (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs'e Hızlı Kaydet (Ctrl/Cmd+Shift+Y)"
    }
 }

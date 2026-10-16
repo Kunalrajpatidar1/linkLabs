@@ -3,12 +3,12 @@
       "message": "Egy gyönyörű, húzható könyvjelző-kezelő, amely helyettesíti az új füllapodat."
    },
    "extensionName": {
-      "message": "LumiList – Intelligens könyvjelzőkezelő"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Gyors mentés az aktuális oldalról LumiList"
+      "message": "Gyors mentés az aktuális oldalról LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Gyors mentés LumiList -re (Ctrl/Cmd+Shift+Y)"
+      "message": "Gyors mentés LinkLabs -re (Ctrl/Cmd+Shift+Y)"
    }
 }

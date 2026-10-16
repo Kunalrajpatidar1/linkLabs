@@ -3,12 +3,12 @@
       "message": "Un manager frumos de marcaje, cu drag-and-drop, care înlocuiește noua ta pagină de filă."
    },
    "extensionName": {
-      "message": "LumiList - Manager inteligent de semne de carte"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Salvează rapid pagina curentă la LumiList"
+      "message": "Salvează rapid pagina curentă la LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Salvare rapidă pe LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Salvare rapidă pe LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

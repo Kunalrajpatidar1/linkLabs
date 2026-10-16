@@ -3,12 +3,12 @@
       "message": "Un elegante gestore di segnalibri con trascinamento che sostituisce la pagina Nuova scheda."
    },
    "extensionName": {
-      "message": "LumiList - Gestore intelligente dei segnalibri"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Salva rapidamente la pagina corrente in LumiList"
+      "message": "Salva rapidamente la pagina corrente in LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Salvataggio rapido in LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Salvataggio rapido in LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

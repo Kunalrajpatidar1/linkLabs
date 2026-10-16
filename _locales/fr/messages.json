@@ -3,12 +3,12 @@
       "message": "Un beau gestionnaire de favoris par glisser-déposer qui remplace votre nouvel onglet."
    },
    "extensionName": {
-      "message": "LumiList - Gestionnaire de favoris intelligent"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Enregistrer rapidement la page actuelle dans LumiList"
+      "message": "Enregistrer rapidement la page actuelle dans LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Quick Save vers LumiList (Ctrl/Cmd+Maj+Y)"
+      "message": "Quick Save vers LinkLabs (Ctrl/Cmd+Maj+Y)"
    }
 }

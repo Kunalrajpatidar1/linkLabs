@@ -3,12 +3,12 @@
       "message": "አዲስ የትር ገጽዎን የሚተካ ውብ፣ በመጎተት እና በመጣል የሚሰራ የዕልባት አስተዳዳሪ።"
    },
    "extensionName": {
-      "message": "LumiList - ብልህ ዕልባት አስተዳዳሪ"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "የአሁኑን ገጽ ወደ LumiList በፍጥነት ያስቀምጡ"
+      "message": "የአሁኑን ገጽ ወደ LinkLabs በፍጥነት ያስቀምጡ"
    },
    "quickSaveTitle": {
-      "message": "ፈጣን ማስቀመጥ ወደ LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "ፈጣን ማስቀመጥ ወደ LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

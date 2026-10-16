@@ -3,12 +3,12 @@
       "message": "Krásný správce záložek s funkcí přetažení, který nahrazuje stránku nové karty."
    },
    "extensionName": {
-      "message": "LumiList - Chytrý správce záložek"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Rychle uložit aktuální stránku do LumiList"
+      "message": "Rychle uložit aktuální stránku do LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Rychle uložit do LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Rychle uložit do LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

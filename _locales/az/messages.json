@@ -3,12 +3,12 @@
       "message": "Yeni tab səhifənizi əvəz edən gözəl, sürükləyib buraxılan əlfəcin meneceri."
    },
    "extensionName": {
-      "message": "LumiList - Ağıllı Əlfəcin Meneceri"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Cari səhifəni LumiList-ə sürətlə saxla"
+      "message": "Cari səhifəni LinkLabs-ə sürətlə saxla"
    },
    "quickSaveTitle": {
-      "message": "LumiList-ə Sürətli Saxla (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs-ə Sürətli Saxla (Ctrl/Cmd+Shift+Y)"
    }
 }

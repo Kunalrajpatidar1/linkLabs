@@ -3,12 +3,12 @@
       "message": "ドラッグ＆ドロップで使える、美しい新しいタブ用ブックマーク管理ツールです。"
    },
    "extensionName": {
-      "message": "LumiList - スマートブックマーク管理"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "現在のページを LumiList にすばやく保存"
+      "message": "現在のページを LinkLabs にすばやく保存"
    },
    "quickSaveTitle": {
-      "message": "LumiList に Quick Save（Ctrl/Cmd+Shift+Y）"
+      "message": "LinkLabs に Quick Save（Ctrl/Cmd+Shift+Y）"
    }
 }

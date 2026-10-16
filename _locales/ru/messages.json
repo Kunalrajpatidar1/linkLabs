@@ -3,12 +3,12 @@
       "message": "Красивый менеджер закладок с перетаскиванием, который заменяет страницу новой вкладки."
    },
    "extensionName": {
-      "message": "LumiList - Менеджер умных закладок"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Быстро сохранить текущую страницу в LumiList"
+      "message": "Быстро сохранить текущую страницу в LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Быстрое сохранение в LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Быстрое сохранение в LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

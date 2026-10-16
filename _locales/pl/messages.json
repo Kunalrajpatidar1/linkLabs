@@ -3,12 +3,12 @@
       "message": "Przejrzysty menedżer zakładek z przeciąganiem i upuszczaniem, który zastępuje stronę nowej karty."
    },
    "extensionName": {
-      "message": "LumiList - Inteligentny menedżer zakładek"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Szybko zapisz bieżącą stronę w LumiList"
+      "message": "Szybko zapisz bieżącą stronę w LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Szybki zapis w LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Szybki zapis w LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

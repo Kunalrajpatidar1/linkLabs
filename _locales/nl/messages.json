@@ -3,12 +3,12 @@
       "message": "Een mooie bladwijzerbeheerder met slepen en neerzetten die je nieuwe-tabbladpagina vervangt."
    },
    "extensionName": {
-      "message": "LumiList - Slimme bladwijzerbeheerder"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Huidige pagina snel opslaan in LumiList"
+      "message": "Huidige pagina snel opslaan in LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Quick Save naar LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Quick Save naar LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

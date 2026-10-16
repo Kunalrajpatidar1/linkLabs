@@ -3,12 +3,12 @@
       "message": "A beautiful, drag-and-drop bookmark manager that replaces your new tab page."
    },
    "extensionName": {
-      "message": "LumiList - Smart Bookmark Manager"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Quick save current page to LumiList"
+      "message": "Quick save current page to LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Quick Save to LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Quick Save to LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

@@ -3,12 +3,12 @@
       "message": "ایک خوبصورت، ڈریگ اینڈ ڈراپ بک مارک مینیجر جو آپ کے نئے ٹیب پیج کی جگہ لے لیتا ہے۔"
    },
    "extensionName": {
-      "message": "LumiList - اسمارٹ بک مارک مینیجر"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "موجودہ صفحہ کو فوری طور پر محفوظ LumiList"
+      "message": "موجودہ صفحہ کو فوری طور پر محفوظ LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "LumiList پر فوری سیو کریں (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs پر فوری سیو کریں (Ctrl/Cmd+Shift+Y)"
    }
 }

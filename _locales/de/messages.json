@@ -3,12 +3,12 @@
       "message": "Ein schöner Lesezeichen-Manager mit Drag-and-drop, der deine neue Tab-Seite ersetzt."
    },
    "extensionName": {
-      "message": "LumiList - Smarter Lesezeichen-Manager"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Aktuelle Seite schnell in LumiList speichern"
+      "message": "Aktuelle Seite schnell in LinkLabs speichern"
    },
    "quickSaveTitle": {
-      "message": "Quick Save in LumiList (Strg/Cmd+Umschalt+Y)"
+      "message": "Quick Save in LinkLabs (Strg/Cmd+Umschalt+Y)"
    }
 }

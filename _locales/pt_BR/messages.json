@@ -3,12 +3,12 @@
       "message": "Um gerenciador de favoritos bonito com arrastar e soltar que substitui a página de nova guia."
    },
    "extensionName": {
-      "message": "LumiList - Gerenciador inteligente de favoritos"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Salve rapidamente a página atual no LumiList"
+      "message": "Salve rapidamente a página atual no LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Salvamento rápido no LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Salvamento rápido no LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

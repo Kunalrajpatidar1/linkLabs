@@ -3,12 +3,12 @@
       "message": "En smuk, træk-og-slip bogmærkehåndtering, der erstatter din nye faneside."
    },
    "extensionName": {
-      "message": "LumiList - Smart Bogmærkehåndtering"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Gem hurtigt den aktuelle side til LumiList"
+      "message": "Gem hurtigt den aktuelle side til LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Hurtiggem til LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Hurtiggem til LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

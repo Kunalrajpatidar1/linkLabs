@@ -3,12 +3,12 @@
       "message": "একটি সুন্দর, ড্র্যাগ-এন্ড-ড্রপ বুকমার্ক ম্যানেজার যা আপনার নতুন ট্যাব পৃষ্ঠাটি প্রতিস্থাপন করে।"
    },
    "extensionName": {
-      "message": "LumiList - স্মার্ট বুকমার্ক ম্যানেজার"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "দ্রুত বর্তমান পৃষ্ঠাটি LumiList সংরক্ষণ করুন"
+      "message": "দ্রুত বর্তমান পৃষ্ঠাটি LinkLabs সংরক্ষণ করুন"
    },
    "quickSaveTitle": {
-      "message": "LumiList দ্রুত সংরক্ষণ করুন (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs দ্রুত সংরক্ষণ করুন (Ctrl/Cmd+Shift+Y)"
    }
 }

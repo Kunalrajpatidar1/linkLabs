@@ -3,12 +3,12 @@
       "message": "새 탭 페이지를 대체하는 아름다운 드래그 앤 드롭 북마크 관리자입니다."
    },
    "extensionName": {
-      "message": "LumiList - 스마트 북마크 관리자"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "현재 페이지를 LumiList에 빠르게 저장"
+      "message": "현재 페이지를 LinkLabs에 빠르게 저장"
    },
    "quickSaveTitle": {
-      "message": "LumiList에 Quick Save (Ctrl/Cmd+Shift+Y)"
+      "message": "LinkLabs에 Quick Save (Ctrl/Cmd+Shift+Y)"
    }
 }

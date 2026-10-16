@@ -3,12 +3,12 @@
       "message": "En stilren bokmärkeshanterare med dra och släpp som ersätter sidan för ny flik."
    },
    "extensionName": {
-      "message": "LumiList - Smart bokmärkeshanterare"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Snabbspara den aktuella sidan till LumiList"
+      "message": "Snabbspara den aktuella sidan till LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Snabbspara till LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Snabbspara till LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

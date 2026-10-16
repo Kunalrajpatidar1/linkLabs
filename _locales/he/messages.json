@@ -3,12 +3,12 @@
       "message": "מנהל סימניות יפהפה, שמאפשר גרירה ושחרור, שמחליף את דף הלשונית החדש שלך."
    },
    "extensionName": {
-      "message": "LumiList - מנהל סימניות חכם"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "שמירה מהירה של הדף הנוכחי LumiList"
+      "message": "שמירה מהירה של הדף הנוכחי LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "שמירה מהירה ל- LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "שמירה מהירה ל- LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

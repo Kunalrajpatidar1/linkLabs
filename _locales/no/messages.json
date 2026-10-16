@@ -3,12 +3,12 @@
       "message": "En vakker, dra-og-slipp bokmerkebehandler som erstatter den nye fanesiden din."
    },
    "extensionName": {
-      "message": "LumiList - Smart bokmerkeadministrator"
+      "message": "LinkLabs"
    },
    "quickSaveCommandDescription": {
-      "message": "Rask lagring av nåværende side til LumiList"
+      "message": "Rask lagring av nåværende side til LinkLabs"
    },
    "quickSaveTitle": {
-      "message": "Hurtiglagring til LumiList (Ctrl/Cmd+Shift+Y)"
+      "message": "Hurtiglagring til LinkLabs (Ctrl/Cmd+Shift+Y)"
    }
 }

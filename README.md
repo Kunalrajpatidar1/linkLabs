@@ -56,7 +56,7 @@ No bookmark data ever leaves your browser.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/bookmark-theme.git
+   git clone https://github.com/Kunalrajpatidar1/linkLabs.git
    cd bookmark-theme
    ```
 
@@ -155,7 +155,7 @@ Please keep changes focused, include tests where applicable, and follow the exis
 
 ## 🐛 Reporting Issues
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/Kunalrajpatidar1/linklab/issues) with:
+Found a bug or have a feature request? Please [open an issue](https://github.com/Kunalrajpatidar1/linkLab/issues) with:
 
 - A clear description of the problem
 - Steps to reproduce
@@ -180,8 +180,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🔗 Links
 
-- [Repository](https://github.com/Kunalrajpatidar1/linklab/)
-- [Issue Tracker](https://github.com/Kunalrajpatidar1/linklab/issues)
+- [Repository](https://github.com/Kunalrajpatidar1/linkLab/)
+- [Issue Tracker](https://github.com/Kunalrajpatidar1/linkLab/issues)
 - [Chrome Web Store](#) *(coming soon)*
 
 ---
